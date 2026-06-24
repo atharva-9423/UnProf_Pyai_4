@@ -1,0 +1,22 @@
+2026-06-24 15:26:29 - INFO - ===== Weather CLI Application Started =====
+2026-06-24 15:26:33 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2026-06-24 15:26:33 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=pune&appid=0b9042dcc2a0afd3e6e6e5f4ee69f3e9&units=metric HTTP/1.1" 200 495
+2026-06-24 15:26:33 - DEBUG - API response status for 'pune': 200
+2026-06-24 15:26:33 - INFO - Weather data fetched successfully for 'pune'.
+2026-06-24 15:26:33 - INFO - Displayed weather for 'pune'.
+2026-06-24 15:26:39 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2026-06-24 15:26:39 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=mumbai&appid=0b9042dcc2a0afd3e6e6e5f4ee69f3e9&units=metric HTTP/1.1" 200 501
+2026-06-24 15:26:39 - DEBUG - API response status for 'mumbai': 200
+2026-06-24 15:26:39 - INFO - Weather data fetched successfully for 'mumbai'.
+2026-06-24 15:26:39 - INFO - Displayed weather for 'mumbai'.
+2026-06-24 15:26:43 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2026-06-24 15:26:43 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=delhi&appid=0b9042dcc2a0afd3e6e6e5f4ee69f3e9&units=metric HTTP/1.1" 200 491
+2026-06-24 15:26:43 - DEBUG - API response status for 'delhi': 200
+2026-06-24 15:26:43 - INFO - Weather data fetched successfully for 'delhi'.
+2026-06-24 15:26:43 - INFO - Displayed weather for 'delhi'.
+2026-06-24 15:26:45 - DEBUG - Starting new HTTPS connection (1): api.openweathermap.org:443
+2026-06-24 15:26:45 - DEBUG - https://api.openweathermap.org:443 "GET /data/2.5/weather?q=london&appid=0b9042dcc2a0afd3e6e6e5f4ee69f3e9&units=metric HTTP/1.1" 200 489
+2026-06-24 15:26:45 - DEBUG - API response status for 'london': 200
+2026-06-24 15:26:45 - INFO - Weather data fetched successfully for 'london'.
+2026-06-24 15:26:45 - INFO - Displayed weather for 'london'.
+2026-06-24 15:26:55 - INFO - ===== Weather CLI Application Exited =====
